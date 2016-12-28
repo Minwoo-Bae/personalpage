@@ -30,3 +30,6 @@ weight = 10
 Minwoo Bae is an undergraduate student studying chemistry at MIT. Born and raised in South Korea, Minwoo was fortunate to attend Seoul Science High School where he began to love science. After receiving a gold medal at the 44th International Chemistry Olympiad, he decided to continue his study at one of the best colleges in the United States, the school of Woodward and Corey, MIT.
 
 Minwoo has his scientific interest spanning chemistry and biology. Developing new chemical reactions, unearthing noble molecules of therapeutic importance, and elucidating the mechanism of aging fall into his interest. Currently, he aims at expanding the scope of the Cu-catalyzed hydroamination in the Buchwald Lab. Minwoo has a dream one day his work would contribute to the society understanding and overcoming the process of aging.
+
+https://Minwoo-Bae/website/Curriculum Vitae_Minwoo Bae.pdf
+
